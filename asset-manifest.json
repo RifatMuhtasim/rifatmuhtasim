@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/rifatmuhtasim/static/css/main.6138caf4.css",
-    "main.js": "/rifatmuhtasim/static/js/main.f36da03a.js",
-    "static/js/787.12f39789.chunk.js": "/rifatmuhtasim/static/js/787.12f39789.chunk.js",
-    "static/media/footer1.jpg": "/rifatmuhtasim/static/media/footer1.db67529bd888c3e40e46.jpg",
-    "index.html": "/rifatmuhtasim/index.html",
-    "main.6138caf4.css.map": "/rifatmuhtasim/static/css/main.6138caf4.css.map",
-    "main.f36da03a.js.map": "/rifatmuhtasim/static/js/main.f36da03a.js.map",
-    "787.12f39789.chunk.js.map": "/rifatmuhtasim/static/js/787.12f39789.chunk.js.map"
+    "main.css": "https://rifatmuhtasim.github.io/rifatmuhtasim/static/css/main.6138caf4.css",
+    "main.js": "https://rifatmuhtasim.github.io/rifatmuhtasim/static/js/main.accc9f04.js",
+    "static/js/787.12f39789.chunk.js": "https://rifatmuhtasim.github.io/rifatmuhtasim/static/js/787.12f39789.chunk.js",
+    "static/media/footer1.jpg": "https://rifatmuhtasim.github.io/rifatmuhtasim/static/media/footer1.db67529bd888c3e40e46.jpg",
+    "index.html": "https://rifatmuhtasim.github.io/rifatmuhtasim/index.html",
+    "main.6138caf4.css.map": "https://rifatmuhtasim.github.io/rifatmuhtasim/static/css/main.6138caf4.css.map",
+    "main.accc9f04.js.map": "https://rifatmuhtasim.github.io/rifatmuhtasim/static/js/main.accc9f04.js.map",
+    "787.12f39789.chunk.js.map": "https://rifatmuhtasim.github.io/rifatmuhtasim/static/js/787.12f39789.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6138caf4.css",
-    "static/js/main.f36da03a.js"
+    "static/js/main.accc9f04.js"
   ]
 }
