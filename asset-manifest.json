@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rifatmuhtasim/static/css/main.6138caf4.css",
-    "main.js": "/rifatmuhtasim/static/js/main.6e93d31a.js",
+    "main.js": "/rifatmuhtasim/static/js/main.96993adc.js",
     "static/js/787.12f39789.chunk.js": "/rifatmuhtasim/static/js/787.12f39789.chunk.js",
     "static/media/footer1.jpg": "/rifatmuhtasim/static/media/footer1.db67529bd888c3e40e46.jpg",
     "index.html": "/rifatmuhtasim/index.html",
     "main.6138caf4.css.map": "/rifatmuhtasim/static/css/main.6138caf4.css.map",
-    "main.6e93d31a.js.map": "/rifatmuhtasim/static/js/main.6e93d31a.js.map",
+    "main.96993adc.js.map": "/rifatmuhtasim/static/js/main.96993adc.js.map",
     "787.12f39789.chunk.js.map": "/rifatmuhtasim/static/js/787.12f39789.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6138caf4.css",
-    "static/js/main.6e93d31a.js"
+    "static/js/main.96993adc.js"
   ]
 }
