@@ -24,7 +24,7 @@ export const Print_login = () => {
     event.preventDefault();
     const data = new FormData(event.currentTarget);
     const password = data.get("password")
-    const Login_credentials = 7474
+    const Login_credentials = '7474'
 
     if ( password === Login_credentials){
       window.location.replace('https://drive.google.com/drive/folders/10VFUU1qYW7_laaaOq89rSzzUqA19C4Yl?usp=sharing')

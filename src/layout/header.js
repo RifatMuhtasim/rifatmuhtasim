@@ -12,6 +12,7 @@ import { Social_contact} from "./footer";
 import SchoolIcon from '@mui/icons-material/School';
 import PaidRoundedIcon from '@mui/icons-material/PaidRounded';
 import LocalPrintshopRoundedIcon from '@mui/icons-material/LocalPrintshopRounded';
+import LocationCityRoundedIcon from '@mui/icons-material/LocationCityRounded';
 
 
 export const Header = () => {
@@ -112,6 +113,17 @@ const List_item = () => {
                     <PaidRoundedIcon />
                   </ListItemIcon>
                   <ListItemText primary="Transactions" />
+                </ListItemButton>
+            </ListItem>
+          </Link>
+
+          <Link  href="https://en.wikipedia.org/wiki/List_of_largest_companies_by_revenue#:~:text=American%20retail%20corporation%20Walmart%20has,company%20by%20revenue%20since%202014." target="_blank"   underline="none">
+            <ListItem disablePadding data-bs-dismiss="offcanvas">
+                <ListItemButton   sx={{color: "cprimary", '&:hover': { color: "cprimary_hover"}}}>
+                  <ListItemIcon>
+                    <LocationCityRoundedIcon />
+                  </ListItemIcon>
+                  <ListItemText primary="Companies" />
                 </ListItemButton>
             </ListItem>
           </Link>
